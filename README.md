@@ -1,4 +1,4 @@
-# Roll-a-Ball (Unity) [![Build Status](https://img.shields.io/travis/unindented/unity-roll-a-ball.svg)](http://travis-ci.org/unindented/unity-roll-a-ball)
+# Roll-a-Ball (Unity) [![Build Status](https://img.shields.io/travis/unindented/unity-roll-a-ball/fsharp.svg)](http://travis-ci.org/unindented/unity-roll-a-ball)
 
 Simple rolling ball game built in Unity, following [this tutorial](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial).
 
